@@ -4,8 +4,8 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Zenith | Your AI Personal Finance Coach',
-  description: 'India\'s first AI-native financial coach. We simplify complexity, provide unbiased guidance, and help you build lasting wealth with confidence.',
+  title: 'Zenith Finance | Your AI Personal Finance Assistant',
+  description: 'Comprehensive AI-powered personal finance platform for Indians. Get expert guidance on investments, tax planning, wealth management, and financial goal achievement.',
 }
 
 export default function RootLayout({ children }) {

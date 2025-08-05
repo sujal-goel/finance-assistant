@@ -6,10 +6,10 @@ export default function Footer() {
           {/* Brand */}
           <div className="md:col-span-1">
             <h3 className="text-xl font-bold gradient-text mb-4">
-              Zenith Tax Optimizer
+              Zenith Finance
             </h3>
             <p className="text-slate-400 text-sm leading-relaxed">
-              AI-powered tax optimization for Indian taxpayers. Maximize your savings, minimize your stress.
+              Your AI-powered personal finance assistant. Comprehensive financial planning, investment guidance, and wealth optimization for Everyone.
             </p>
           </div>
           
@@ -17,10 +17,10 @@ export default function Footer() {
           <div>
             <h4 className="font-semibold mb-4">Services</h4>
             <ul className="space-y-2 text-slate-400 text-sm">
-              <li><a href="#" className="hover:text-white transition-colors">Tax Analysis</a></li>
-              <li><a href="#" className="hover:text-white transition-colors">Investment Planning</a></li>
-              <li><a href="#" className="hover:text-white transition-colors">Deduction Optimizer</a></li>
-              <li><a href="#" className="hover:text-white transition-colors">AI Consultation</a></li>
+              <li><a href="#" className="hover:text-white transition-colors">Financial Planning</a></li>
+              <li><a href="#" className="hover:text-white transition-colors">Investment Advisory</a></li>
+              <li><a href="#" className="hover:text-white transition-colors">Tax Optimization</a></li>
+              <li><a href="#" className="hover:text-white transition-colors">Wealth Management</a></li>
             </ul>
           </div>
           
@@ -28,10 +28,10 @@ export default function Footer() {
           <div>
             <h4 className="font-semibold mb-4">Resources</h4>
             <ul className="space-y-2 text-slate-400 text-sm">
-              <li><a href="#" className="hover:text-white transition-colors">Tax Calculator</a></li>
+              <li><a href="#" className="hover:text-white transition-colors">Financial Calculator</a></li>
               <li><a href="#" className="hover:text-white transition-colors">Investment Guide</a></li>
-              <li><a href="#" className="hover:text-white transition-colors">Blog</a></li>
-              <li><a href="#" className="hover:text-white transition-colors">FAQ</a></li>
+              <li><a href="#" className="hover:text-white transition-colors">Market Insights</a></li>
+              <li><a href="#" className="hover:text-white transition-colors">Financial Blog</a></li>
             </ul>
           </div>
           
@@ -50,7 +50,7 @@ export default function Footer() {
         <div className="border-t border-slate-800 mt-8 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-slate-400 text-sm">
-              © 2024 Zenith Tax Optimizer. All rights reserved.
+              © 2025 Zenith Finance. All rights reserved.
             </div>
             <div className="flex space-x-6">
               <a href="#" className="text-slate-400 hover:text-white transition-colors">
