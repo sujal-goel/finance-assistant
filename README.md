@@ -298,4 +298,4 @@ For questions, issues, or feature requests:
 
 ---
 
-**Built with ❤️ using Next.js, AI, and Google Sheets**
+**<center>Built with ❤️ using Next.js, AI, and Google Sheets</center>**
