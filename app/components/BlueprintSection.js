@@ -27,7 +27,7 @@ export default function BlueprintSection() {
   ];
 
   return (
-    <section className="py-20 bg-gradient-to-br from-slate-900 via-blue-900 to-slate-900"  id="blueprint">
+    <section id="blueprint" className="py-20 bg-gradient-to-br from-slate-900 via-blue-900 to-slate-900"  >
       <div className="container mx-auto px-6">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-6">
